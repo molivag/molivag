@@ -1,10 +1,10 @@
 ## About
 
 <p>
-    I'm a geophyscicist predoctoral researcher 
+    I'm a predoctoral researcher in geophysics
     in the Geomodels Research Institute at 
     University of Barcelona.
-Currently, my research lies at the intersection of numerical simulations and geophysical data integration, aiming to build a multiphysics model to characterize fault-controlled geothermal reservoirs.
+Currently, my research focuses on computational geophysics, mainly at the intersection of numerical simulations and geophysical data integration, aiming to build a multiphysics model to characterize fault-controlled geothermal systems.
 </p>
 
 ## Research Interests
