@@ -1,4 +1,4 @@
-## Hi there 👋
+## About
 
 <p>
     I'm a geophyscicist predoctoral researcher 
